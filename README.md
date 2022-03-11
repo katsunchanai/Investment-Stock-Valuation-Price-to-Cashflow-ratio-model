@@ -1,1 +1,1 @@
-# Investment-Stock-Valuation-Price-to-Cashflow-ratio-model
+# Statistics-Stock-Valuation-Linear-Regression-R-square 
